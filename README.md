@@ -1,4 +1,6 @@
-# Chat
+# Phoenix Chat
+
+A basic [Phoenix Channels](https://hexdocs.pm/phoenix/channels.html) chat server. Used to demonstrate usage of [phoenix.cr](https://github.com/dtcristo/phoenix.cr), the Crystal client for Phoenix Channels.
 
 To start your Phoenix server:
 
